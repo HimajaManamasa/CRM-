@@ -10,3 +10,4 @@ class postForm(forms.ModelForm):
     	fields=['title','text']
 
 # new code
+# new code  2
