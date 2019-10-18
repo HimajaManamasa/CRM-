@@ -1,1 +1,1 @@
-# JNTU
+# CRM Web application
